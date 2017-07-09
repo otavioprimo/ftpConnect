@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-ftp": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-ftp"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
